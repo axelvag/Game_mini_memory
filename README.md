@@ -4,7 +4,7 @@
 
 ## Fonctionnality
 
-- Select your cards name
+- Select your 8 cards name line by line
 - Simple user interface in console mode
 
 ### Starting
