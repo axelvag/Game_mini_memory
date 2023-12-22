@@ -1,4 +1,4 @@
-# Game_memory
+# Game_mini_memory
 
 > A Memory game in C++ that will test your memory! Flip the cards over to find matching pairs.
 
@@ -11,10 +11,10 @@
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/axelvag/Game_memory.git Game_memory
+$ git clone https://github.com/axelvag/Game_mini_memory.git Game_mini_memory
 
 # Access
-$ cd Game_memory
+$ cd Game_mini_memory
 
 # Compile the project
 $ clang++ *.cpp
